@@ -1,0 +1,8 @@
+{ "users": {
+    "1" : {"name": "Leonardo Souza", "age": 41, "city": "Uberlândia"},
+    "2" : {"name": "Eduardo Pereira", "age": 35, "city": "Diamantina"},
+    "3" : {"name": "Carol Ribeiro", "age": 37, "city": "Montes Claros"},
+    "4" : {"name": "Rafael Santos", "age": 30, "city": "São Paulo"},
+    "5" : {"name": "Cinthya Almeida", "age": 33, "city": "Diamantina"},
+    "6" : {"name": "Rick Macedo", "age": 40, "city": "Tijucal"}
+}}
