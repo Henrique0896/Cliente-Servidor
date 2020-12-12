@@ -11,5 +11,5 @@ Com os dois em execução, abra o terminal do cliente.
 Na sequência faça uma requisição para o server utilizando uma das opções oferecidas.
 Depois da resposta do servidor ambos são finalizados.
 
-Dependência: Python 3
+Dependência: Python 3,
 Testado no Ubuntu 20.04
